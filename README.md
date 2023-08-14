@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Machong Paul</h1>
-<h3 align="center">A passionate and Creative FullStack Developer</h3>
+<h3 align="center">A Passionate and Creative FullStack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirpolux&label=Profile%20views&color=0e75b6&style=flat" alt="sirpolux" /> </p>
