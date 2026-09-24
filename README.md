@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![MasterHead](https://res.cloudinary.com/dhk2jws5r/image/upload/v1790254338/profile_cover_bvfojy.png)
 
 <h1 align="center">Hi 👋, I'm Machong Paul</h1>
 
@@ -6,7 +6,7 @@
 Java Backend Engineer | Spring Boot | REST APIs | Microservices | Full-Stack Development
 </h3>
 
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dhk2jws5r/image/upload/v1790254338/profile_cover_bvfojy.png" />
+<!-- <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/dhk2jws5r/image/upload/v1790254338/profile_cover_bvfojy.png" /> -->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sirpolux&label=Profile%20views&color=0e75b6&style=flat" alt="sirpolux" />
